@@ -1,0 +1,1 @@
+const api_key="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";
